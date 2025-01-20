@@ -10,6 +10,9 @@ To describe the spatial and temporal variability of KE in the ocean, KE spectra 
 Previous studies show  discrepancies between satellite altimetry and submesoscale permitting resolutions models. 
 
 The objective is check previous studies about the KE distribution 
+
+## Schedule
+
 ## How to contribute
 ### Data Request
 * Spatial resolution:
