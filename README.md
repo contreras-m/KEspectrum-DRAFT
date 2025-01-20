@@ -10,8 +10,8 @@ To describe the spatial and temporal variability of KE in the ocean, KE spectra 
 Previous studies show  discrepancies between satellite altimetry and submesoscale permitting resolutions models. 
 
 The objective is check previous studies about the KE distribution 
-
-## Data Request
+## How to contribute
+### Data Request
 * Spatial resolution:
 * Period: 18 months (+ 6 extra)
 * Regions: Gulf Stream, Aguhlas Current, Kuroshio Current, California Current, South Pacific
