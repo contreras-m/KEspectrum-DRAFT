@@ -18,7 +18,7 @@ The objective of this study is describe the KE spectrum from SWOT and compare wi
 * May - August : Processing data
 * September - October : Redaction manuscrit
 * November: Revision
-* December: Submission
+* December: Submit
   
 ## How to contribute
 ### Data Request
