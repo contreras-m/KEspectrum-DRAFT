@@ -21,6 +21,6 @@ The objective is check previous studies about the KE distribution
 * Variables:
   ** Daily output
   SSH, U ,V
-  Temp, Sal, W 
+  Temp, Sal, W, (forzantes atmosfericos ?) 
 
 * Grid file is request
