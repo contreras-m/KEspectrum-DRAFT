@@ -26,7 +26,7 @@ If you want contribute, please raising an issue on Github.
 ### Data Request
 * Spatial resolution: < 4 km
 * Period: Minimum 12 months
-* Regions: Gulf Stream, Aguhlas Current, Kuroshio Current, (California Current, South Pacific define area size)
+* Regions: Gulf Stream, Aguhlas Current, Kuroshio Current, (California Current, South Pacific ?)
 * Variables:
   1) Daily output: SSH
   2) depth < 1000 m: Temp, Sal, W, U, V (?)
