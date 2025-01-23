@@ -1,6 +1,6 @@
 # KEspectrum-SWOT
 ## About 
-This repo aims to share submesoscale permitting (or higher resolution) simulations that allow  the analysis of the temporal variability of the geostrophic kinetic energy (KE) spectrum  over several oceanic regions and compare with satellite altimetry SWOT dataset.
+The aim of this repository is to share submesoscale (or higher resolution) simulations that allow to analyse the seasonal variability of the geostrophic kinetic energy (KE) spectrum in different ocean regions and to compare it with the SWOT satellite altimetry dataset.
 
 ## Motivation
 Satellite altimetry launches during the last two decades marked a significant advance for oceanographic science through sea level observations in a spatial range from 100 km to over 5,000 km. The geostrophic velocities estimated from SSH allowed  us to describe the kinetic energy contained in the mesoscale.  To describe the spatial and temporal variability of kinetic energy (KE) in the ocean, KE spectra have been extensively employed.  Depending of the processes that drive the dynamics, the KE spectrum slope varies (REF). In situ observations, satellite data, and numerical ocean models show the presence of a significant temporal and regional variability in the distribution of KE (REF. 
